@@ -1,7 +1,7 @@
 body {
     text-align: center;
     font-family: 'Happy Monkey', cursive;
-    background: linear-gradient(#a2d2ff, #EFB0C9);
+    background: linear-gradient(#92AA83, #B0BEA9);
     color: #ffffff;
 }
 
@@ -10,14 +10,14 @@ h1, h2, h3, h4, p {
 }
 
 #bff-img {
-    width: 150px;
+    width: 300px;
     border-radius: 50%;
-    border: 6px solid #EFB0C9;
+    border: 6px solid #92AA83;
     margin-bottom: 10px;
 }
 
 #bday-age {
-    background: #EFB0C9;
+    background: #92AA83;
     padding: 5px 10px;
     border-radius: 5px;
     margin: 5px 0 10px 0;
@@ -25,7 +25,7 @@ h1, h2, h3, h4, p {
 
 #bday-date {
     margin: 0;
-    background: #EFB0C9;
+    background: #92AA83;
     padding: 5px 10px;
     border-radius: 5px;
 }
@@ -76,6 +76,7 @@ h1, h2, h3, h4, p {
 
 #gift-img-badass:hover {
     background-image: url("images/badass.gif");
+
 }
 
 #gift-img-cheers:hover {
